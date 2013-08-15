@@ -3,6 +3,8 @@ threex.windowresize
 
 threex.windowresize is a three.js extension to help you handle window resize.
 
+Here is a [basic example](http://jeromeetienne.github.io/threex.windowresize/examples/basic.html) and its [source](https://github.com/jeromeetienne/threex.windowresize/blob/master/examples/basic.html).
+Another [example with devicePixelRatio](http://jeromeetienne.github.io/threex.windowresize/examples/devicepixelratio.html) and its [source](https://github.com/jeromeetienne/threex.windowresize/blob/master/examples/devicepixelratio.html)
 
 How To Install It
 =================
