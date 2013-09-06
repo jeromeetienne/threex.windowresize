@@ -9,17 +9,13 @@ Another [example with devicePixelRatio](http://jeromeetienne.github.io/threex.wi
 How To Install It
 =================
 
-You can install it manually or with
-[bower](http://bower.io/).
-for the manual version, first include ```threex.windowresize.js``` with the usual
+You can install it manually. Just do 
 
 ```html
 <script src='threex.windowresize.js'></script>
 ```
 
-or with
-[bower](http://bower.io/) 
-you type the following to install the package.
+You can install with [bower](http://bower.io/).
 
 ```bash
 bower install threex.windowresize
@@ -30,7 +26,6 @@ then you add that in your html
 ```html
 <script src="bower_components/threex.windowresize/threex.windowresize.js"></script>
 ```
-
 
 ## How To Use
 
